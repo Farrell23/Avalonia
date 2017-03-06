@@ -12,6 +12,7 @@ using Avalonia.Media;
 namespace Avalonia.Cairo.Media
 {
     using Avalonia.Media.Imaging;
+    using Platform;
     using Cairo = global::Cairo;
 
     /// <summary>
